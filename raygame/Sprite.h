@@ -13,7 +13,7 @@ public:
     /// <param name="texture">Sets the sprites image to be the given texture</param>
     Sprite(Texture2D* texture);
 
-    /// <summary>
+    /// <summary>63
     /// Loads the texture at the given path
     /// </summary>
     /// <param name="path">The file path of the texture</param>
