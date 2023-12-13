@@ -108,7 +108,10 @@ Actor* ActorArray::getActor(int index)
         return nullptr;
 
     //Return the actor at the given index
-    m_actors[index];
+    return m_actors[index];
+
+
+
 }
 
 bool ActorArray::contains(Actor* actor)
